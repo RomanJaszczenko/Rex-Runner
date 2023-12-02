@@ -7,4 +7,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
 
 ## Link
-The project is linked - 
+The project is linked - https://romanjaszczenko.github.io/Rex-Runner/
